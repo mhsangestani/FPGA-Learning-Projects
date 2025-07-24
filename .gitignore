@@ -1,0 +1,53 @@
+# --------------------------------------
+# Vivado generated files - ignore all except srcs and .xpr
+# --------------------------------------
+
+# Cache files
+*.cache/
+*.cache/*
+
+# Simulation files
+*.sim/
+*.sim/*
+
+# Hardware platform files
+*.hw/
+*.hw/*
+
+# IP user files (generated IP cores)
+*.ip_user_files/
+*.ip_user_files/*
+
+# Vivado workspace files
+*.Xil/
+*.Xil/*
+
+# Vivado run folders
+*.runs/
+*.runs/*
+
+# Log files
+*.jou
+*.log
+*.str
+*.webtalk/
+
+# Backup files
+*.backup.*
+*.bak
+
+# Temporary data
+*.data/
+*.sdk/
+
+# Generated files by Vivado Tcl scripts or SDK
+*.gen/
+
+# Ignore OS-specific files (optional)
+.DS_Store
+Thumbs.db
+
+# Ignore editor-specific files (optional)
+.vscode/
+.idea/
+*.swp
